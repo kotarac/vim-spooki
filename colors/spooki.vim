@@ -22,6 +22,7 @@ hi IncSearch ctermfg=0 ctermbg=13 cterm=NONE
 hi LineNr ctermfg=8 ctermbg=NONE
 hi MatchParen ctermfg=7 ctermbg=NONE cterm=underline
 hi NonText ctermfg=8
+hi Normal ctermfg=15 ctermbg=16 cterm=NONE
 hi Pmenu ctermfg=15 ctermbg=0
 hi PmenuSBar ctermbg=8
 hi PmenuSel ctermfg=0 ctermbg=4
